@@ -1,7 +1,7 @@
 # azdo
 AZDO OpenGL techniques including visibility culling and LOD selection inside the GPU
 
-For more information about AZDO, checkout this [video](https://www.youtube.com/watch?v=K70QbvzB6II)
+For more information about AZDO, checkout this [video](https://www.gdcvault.com/play/1020791)
 
 # Description
 
