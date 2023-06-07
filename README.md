@@ -1,7 +1,7 @@
 # azdo
 AZDO OpenGL techniques including visibility culling and LOD selection inside the GPU
 
-For more information about AZDO, checkout this [video](https://www.gdcvault.com/play/1020791)
+For more information about AZDO, checkout [this](https://www.gdcvault.com/play/1020791) 2014 presentation from GDC ([mirror](https://archive.org/details/GDC2014Everitt)). You can also google "approaching zero driver overhead" :)
 
 # Description
 
